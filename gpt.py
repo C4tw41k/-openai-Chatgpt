@@ -1,7 +1,3 @@
-# Note: you need to be using OpenAI Python v0.27.0 for the code below to work
-import openai
-
-import os
 import openai
 openai.organization = "org-DZxxxxxxxxxxxxxxdHz" #填你自己的OpenAI-Organization，这里获得：https://platform.openai.com/account/org-settings
 openai.api_key = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxWt2zEs" #填你自己的api_key，这里获得：https://platform.openai.com/account/api-keys
